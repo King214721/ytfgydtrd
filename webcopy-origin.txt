@@ -1,0 +1,508 @@
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\css2
+Content Type: text/css
+
+Uri: https://www.itemsatis.com/
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\index.htm
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/alim-ilani-pazari.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\alim-ilani-pazari.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/blog
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\blog.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/destek-sistemi.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\destek-sistemi.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/discord/invite-manager-botu-yazilimi-en-iyisi-2351153.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\discord\invite-manager-botu-yazilimi-en-iyisi-2351153.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/discord/otomatik-teslimat-1-aylik-14x-boost-1199614.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\discord\otomatik-teslimat-1-aylik-14x-boost-1199614.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/discord/ticket-bilet-botu-yazilimi-en-iyisi-2325982.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\discord\ticket-bilet-botu-yazilimi-en-iyisi-2325982.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/dist/css/all.min.css
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\dist\css\all.min.css
+Content Type: text/css
+
+Uri: https://www.itemsatis.com/dist/css/bootstrap-select.min.css
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\dist\css\bootstrap-select.min.css
+Content Type: text/css
+
+Uri: https://www.itemsatis.com/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.itemsatis.com/dist/css/circle.css
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\dist\css\circle.css
+Content Type: text/css
+
+Uri: https://www.itemsatis.com/dist/css/Dark-Theme.css?ver=820
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\dist\css\Dark-Theme.css
+Content Type: text/css
+
+Uri: https://www.itemsatis.com/dist/css/intlTelInput.min.css
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\dist\css\intlTelInput.min.css
+Content Type: text/css
+
+Uri: https://www.itemsatis.com/dist/css/ItemSatis-Utils.css?ver=5
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\dist\css\ItemSatis-Utils.css
+Content Type: text/css
+
+Uri: https://www.itemsatis.com/dist/css/ItemSatis.css?ver=820
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\dist\css\ItemSatis.css
+Content Type: text/css
+
+Uri: https://www.itemsatis.com/dist/css/ItemSatisMobile.css?ver=820
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\dist\css\ItemSatisMobile.css
+Content Type: text/css
+
+Uri: https://www.itemsatis.com/dist/css/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\dist\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://www.itemsatis.com/dist/css/MobileNavBar.css?ver=820
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\dist\css\MobileNavBar.css
+Content Type: text/css
+
+Uri: https://www.itemsatis.com/dist/css/NewChatPanel.css?ver=820
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\dist\css\NewChatPanel.css
+Content Type: text/css
+
+Uri: https://www.itemsatis.com/dist/css/newMenu.css?ver=820
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\dist\css\newMenu.css
+Content Type: text/css
+
+Uri: https://www.itemsatis.com/dist/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\dist\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://www.itemsatis.com/dist/css/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\dist\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://www.itemsatis.com/dist/css/sweetalert2.min.css
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\dist\css\sweetalert2.min.css
+Content Type: text/css
+
+Uri: https://www.itemsatis.com/dist/img/favicon.ico
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\dist\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.itemsatis.com/dist/media_css/mobile.css?ver=820
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\dist\media_css\mobile.css
+Content Type: text/css
+
+Uri: https://www.itemsatis.com/dist/media_css/tablet.css?ver=820
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\dist\media_css\tablet.css
+Content Type: text/css
+
+Uri: https://www.itemsatis.com/dist/page_css/Home.css?ver=820
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\dist\page_css\Home.css
+Content Type: text/css
+
+Uri: https://www.itemsatis.com/gunun-firsatlari.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\gunun-firsatlari.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/hakkimizda.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\hakkimizda.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/ilan-pazari.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\ilan-pazari.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/ilanlar/discord.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\ilanlar\discord.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/ilanlar/instagram.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\ilanlar\instagram.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/ilanlar/microsoft.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\ilanlar\microsoft.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/ilanlar/valorant.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\ilanlar\valorant.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/iletisim.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\iletisim.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/instagram/instagram-10000-izlenme-garantili-hizli-2346029.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\instagram\instagram-10000-izlenme-garantili-hizli-2346029.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/itemsatis-guvenilir-mi.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\itemsatis-guvenilir-mi.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategori-listesi/e-pin.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategori-listesi\e-pin.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategori-listesi/hediye-kartlari.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategori-listesi\hediye-kartlari.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategori-listesi/top-up.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategori-listesi\top-up.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/amazon-hediye-karti.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\amazon-hediye-karti.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/app-store-hediye-karti.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\app-store-hediye-karti.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/arena-breakout.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\arena-breakout.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/arena-of-valor.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\arena-of-valor.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/asphalt-9.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\asphalt-9.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/boost-hizmetleri.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\boost-hizmetleri.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/brawl-stars.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\brawl-stars.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/call-of-duty-mobile.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\call-of-duty-mobile.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/clash-of-clans.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\clash-of-clans.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/clash-royale.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\clash-royale.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/game-of-sultans.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\game-of-sultans.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/genshin-impact.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\genshin-impact.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/google-play-hediye-karti.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\google-play-hediye-karti.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/growtopia.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\growtopia.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/hayday.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\hayday.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/honor-of-kings.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\honor-of-kings.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/mobile-legends.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\mobile-legends.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/netflix-hediye-karti.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\netflix-hediye-karti.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/pubg-mobile-lite.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\pubg-mobile-lite.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/razer-gold.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\razer-gold.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/rise-online-gb.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\rise-online-gb.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/steam.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\steam.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/super-sus.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\super-sus.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/top-eleven.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\top-eleven.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/tower-of-fantasy.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\tower-of-fantasy.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/undawn.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\undawn.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/whiteout-survival.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\whiteout-survival.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/xbox.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\xbox.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kategoriler/yazilim-urunleri.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kategoriler\yazilim-urunleri.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/kurumsal-kimlik.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\kurumsal-kimlik.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/magazalar.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\magazalar.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/microsoft/xbox-gamepass-ultimate-oto-teslim-3-aylik-1869629.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\microsoft\xbox-gamepass-ultimate-oto-teslim-3-aylik-1869629.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/p/ExlStore
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\p\ExlStore.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/p/RexaShopping
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\p\RexaShopping.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/p/sinqumedya
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\p\sinqumedya.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/p/XlrMagaza
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\p\XlrMagaza.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/profil/kingmans31.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\profil\kingmans31.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/semantic/semantic.min.css?ver?=7
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\semantic\semantic.min.css
+Content Type: text/css
+
+Uri: https://www.itemsatis.com/sozlesme/yeni-kullanici-bilgilendirmesi.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\sozlesme\yeni-kullanici-bilgilendirmesi.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/ucretsiz-cekilisler.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\ucretsiz-cekilisler.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/albion-silver-satin-al.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\albion-silver-satin-al.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/alchemy-stars.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\alchemy-stars.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/azar-diamonds.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\azar-diamonds.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/bigo-elmas.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\bigo-elmas.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/bigo-live-diamonds.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\bigo-live-diamonds.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/cabal-online-alz-satin-al.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\cabal-online-alz-satin-al.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/d-smart-go.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\d-smart-go.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/exxen-uyelik-paketleri.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\exxen-uyelik-paketleri.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/fizy-premium.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\fizy-premium.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/free-fire-tr-elmas-id-yukleme.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\free-fire-tr-elmas-id-yukleme.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/gain-hediye-karti.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\gain-hediye-karti.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/gameforge-epin.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\gameforge-epin.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/geforce-now-game-plus-uyelik.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\geforce-now-game-plus-uyelik.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/goddess-of-victory-nikke.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\goddess-of-victory-nikke.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/gpay-epin.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\gpay-epin.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/hepsiburada-hediye-karti.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\hepsiburada-hediye-karti.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/hulu.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\hulu.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/itempazar-hediye-karti.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\itempazar-hediye-karti.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/itemsatis-hediye-karti.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\itemsatis-hediye-karti.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/jawaker-token.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\jawaker-token.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/joygame-joypara.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\joygame-joypara.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/knight-online-goldbar.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\knight-online-goldbar.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/lifebox.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\lifebox.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/like-elmas-satin-al.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\like-elmas-satin-al.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/livu.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\livu.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/meditopia-premium-uyelik.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\meditopia-premium-uyelik.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/metin2-yang-satin-al.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\metin2-yang-satin-al.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/mixu.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\mixu.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/nimo-tv-elmas.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\nimo-tv-elmas.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/paribu-cineverse-hediye-karti.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\paribu-cineverse-hediye-karti.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/popmundo-kredi-vip.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\popmundo-kredi-vip.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/pubg-uc-top-up.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\pubg-uc-top-up.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/s-sport-plus-uyelik.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\s-sport-plus-uyelik.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/silkroad-online-global-sunucu-gold.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\silkroad-online-global-sunucu-gold.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/silkroad-online-gold.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\silkroad-online-gold.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/tango-live-jeton.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\tango-live-jeton.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/tinder-gold-plus-satin-al.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\tinder-gold-plus-satin-al.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/tod-tv.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\tod-tv.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/tumile.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\tumile.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/tv-plus-uyeligi.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\tv-plus-uyeligi.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/wesing.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\wesing.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/wow-gold-satin-al.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\wow-gold-satin-al.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/yalla-ludo-gold.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\yalla-ludo-gold.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/urunler/zepeto.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\urunler\zepeto.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/valorant/ucuza-dolu-hesap-mainlik-2309486.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\valorant\ucuza-dolu-hesap-mainlik-2309486.html
+Content Type: text/html
+
+Uri: https://www.itemsatis.com/yardim.html
+File Name: C:\Downloaded Web Sites\www.itemsatis.com\yardim.html
+Content Type: text/html
+
